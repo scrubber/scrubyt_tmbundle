@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>click_by_xpath "$1"
+</string>
+	<key>name</key>
+	<string>Click by XPath</string>
+	<key>tabTrigger</key>
+	<string>navxp</string>
+	<key>uuid</key>
+	<string>FF57C028-D1C3-4E80-940C-6EB3004E9529</string>
+</dict>
+</plist>

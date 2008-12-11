@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>click_link "$1", $2</string>
+	<key>name</key>
+	<string>Click Link and Wait</string>
+	<key>tabTrigger</key>
+	<string>navcliw</string>
+	<key>uuid</key>
+	<string>DEF9A380-9E31-465A-B32C-F2F671FF86F0</string>
+</dict>
+</plist>

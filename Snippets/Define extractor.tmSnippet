@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>data = Scrubyt::Extractor.define do
+  fetch '$1'
+
+  #define your scraper here  
+end</string>
+	<key>name</key>
+	<string>Define extractor</string>
+	<key>tabTrigger</key>
+	<string>scext</string>
+	<key>uuid</key>
+	<string>CAB41350-D358-4A33-B92A-2667D164BDF8</string>
+</dict>
+</plist>

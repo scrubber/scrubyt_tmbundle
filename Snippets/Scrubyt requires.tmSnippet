@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>require 'rubygems'
+require 'scrubyt'</string>
+	<key>name</key>
+	<string>Scrubyt requires</string>
+	<key>tabTrigger</key>
+	<string>screq</string>
+	<key>uuid</key>
+	<string>EB26AE01-3A6A-4352-A971-87F2B38E6440</string>
+</dict>
+</plist>

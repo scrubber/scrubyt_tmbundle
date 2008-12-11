@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>$1pattern_name :type =&gt; :html_subtree</string>
+	<key>name</key>
+	<string>Scrubyt HTML Subtree Pattern</string>
+	<key>tabTrigger</key>
+	<string>htmlp</string>
+	<key>uuid</key>
+	<string>F0ACA79F-90E7-4779-9955-A15444B395CC</string>
+</dict>
+</plist>

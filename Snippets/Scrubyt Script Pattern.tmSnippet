@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>pattern_name lambda {|x| $1}, :type =&gt; :script</string>
+	<key>name</key>
+	<string>Scrubyt Script Pattern</string>
+	<key>tabTrigger</key>
+	<string>scrip</string>
+	<key>uuid</key>
+	<string>CB5A83C8-B6BB-4AED-A222-D0EDC15ADF6F</string>
+</dict>
+</plist>

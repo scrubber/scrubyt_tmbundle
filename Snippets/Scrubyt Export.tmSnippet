@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>puts data.export</string>
+	<key>name</key>
+	<string>Scrubyt Export</string>
+	<key>tabTrigger</key>
+	<string>scexp</string>
+	<key>uuid</key>
+	<string>67310E3E-D556-4C6B-90B5-833B8553A7A5</string>
+</dict>
+</plist>

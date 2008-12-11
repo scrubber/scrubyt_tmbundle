@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>pattern_name  "$1", :type =&gt; :download </string>
+	<key>name</key>
+	<string>Scrubyt Download Pattern</string>
+	<key>tabTrigger</key>
+	<string>downp</string>
+	<key>uuid</key>
+	<string>A152629D-123B-41EC-ACC5-C62A9A150FC1</string>
+</dict>
+</plist>

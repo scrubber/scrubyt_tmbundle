@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>Scrubyt.logger = Scrubyt::Logger.new</string>
+	<key>name</key>
+	<string>Scrubyt Logger</string>
+	<key>tabTrigger</key>
+	<string>sclog</string>
+	<key>uuid</key>
+	<string>BCD8D12E-86D3-489F-AA4D-A5B89EB7339B</string>
+</dict>
+</plist>

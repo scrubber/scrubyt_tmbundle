@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>check_radiobutton :$1, "$2index"
+</string>
+	<key>name</key>
+	<string>Check Radiobutton</string>
+	<key>tabTrigger</key>
+	<string>navrad</string>
+	<key>uuid</key>
+	<string>B7BFBED1-906D-48D0-8690-1C21632EE58C</string>
+</dict>
+</plist>
